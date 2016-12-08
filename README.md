@@ -1,5 +1,5 @@
 # networRkTools
-ancillary tools for network analysis for R
+ancillary tools for network analysis for R by Josh Rosenberg and Sarah Galey at Michigan State University.
 
 ## Description 
 
